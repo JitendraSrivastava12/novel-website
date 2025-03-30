@@ -20,7 +20,7 @@ The Novel Website is a platform for browsing, reading, and discovering novels. I
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone <repository_url>
+   git [clone <repository_url>](https://github.com/JitendraSrivastava12/novel-website)
    ```
 2. Navigate to the project directory:
    ```sh
