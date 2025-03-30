@@ -1,7 +1,7 @@
 # Novel Website
 
 ## Project Link
-[Click here to visit the Novel Website](abcd)
+[Click here to visit the Novel Website](https://novel-hub-wwjy.vercel.app/)
 
 ## Description
 The Novel Website is a platform for browsing, reading, and discovering novels. It provides an intuitive user experience with features like search, categorization, and recommendations.
